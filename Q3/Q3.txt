@@ -1,0 +1,13 @@
+Question 3:
+
+1. Edge Cases:
+
+-Test out extreme cases where the software system would sent out emails at times close to 24 hours before scheduled time.
+ i.e. send out at either 23 Hours, 59 Minutes, 59 seconds... or 24 hours and 1 second
+
+2. Sending emails to Non-existing/Invalid Email Addresses
+
+-Test to see how the system responds when sending an email that is invalid or non-existant...would it try to keep sending it?
+- As well to check if sent, login with SMTP to check if email successfully received by user.
+
+
