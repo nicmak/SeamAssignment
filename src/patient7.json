@@ -1,3 +1,7 @@
+//The Changes made to this FHIR document were based on 
+// provided documentation from the link below
+//https://www.hl7.org/fhir/patient-example-xcda.json.html
+
 {
   "resourceType": "Patient",
   "id": "xcda",
